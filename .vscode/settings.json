@@ -1,0 +1,5 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.autoClosingDelete": "auto",
+    "editor.formatOnSave": true
+}
